@@ -1,0 +1,114 @@
+.login_bg{
+    background-color: #eee;
+    height: 100%;
+}
+.login{
+    width: 30%;
+    margin: 20px auto;
+    background-color: #fff;
+        padding: 25px;
+    box-shadow: 10px 10px 15px #eee;
+    min-width: 455px;
+}
+.login>div:nth-child(1){
+    font-size: 30px;
+    width: 100%;
+    text-align: center;
+    height: 100px;
+    line-height: 100px;
+}
+.login>div:nth-child(1)>span{
+    display: inline-block;
+    margin: 0 10px;
+}
+.login>div:nth-child(1)>span:nth-child(1){
+    color: red;
+    font-weight: 700;
+    letter-spacing: 5px;
+    border-bottom: 3px solid red;
+    line-height: 70px;
+}
+.login>div:nth-child(2)>span:nth-child(1){
+       position: absolute;
+    left: 109px;
+    top: 27px;
+}
+#xxxx{
+       position: absolute;
+    left:109px;
+    top: 106px;
+}
+.login>div:nth-child(2)>span:nth-child(2){
+        position: absolute;
+    left: 109px;
+    top: 106px;
+}
+
+.login>div:nth-child(2){
+      font-size: 10px;
+    width: 100%;
+    position: relative;
+    margin-top: 50px;
+    left: -20px;
+
+}
+.login>div:nth-child(2)>input{
+   width: 60%;
+    margin: 0px 20%;
+    height: 84px;
+    background-color: #eee;
+    border: 1px solid #9f9f9f;
+    padding-left: 50px;
+    font-size: 23px;
+    
+}
+.login>div:nth-child(3){
+      font-size: 26px;
+    margin: 33px 19%;
+    width: 65%;
+}
+.login>div:nth-child(3)>input{
+    width: 30px;
+    height: 30px;
+    vertical-align: middle;
+}
+.login>div:nth-child(3)>span:last-child{
+        float: right;
+}
+.login>div:nth-child(4){
+   width: 66%;
+    margin: 10px 86px;
+    height: 70px;
+    line-height: 70px;
+    font-size: 28px;
+    color: #fff;
+    text-align: center;
+    background-color: blue;
+    font-weight: 700;
+    letter-spacing: 10px;
+    border-radius: 33px;
+}
+.login>div:nth-child(5){
+       width: 100%;
+    margin: 52px auto;
+    font-size: 22px;
+    color: #9f9f9f;
+ }
+ .login>div:nth-child(5)>div:nth-child(1){
+ width: 80%;
+    text-align: center;
+    line-height: 50px;
+    height: 50px;
+    margin: 0 auto;
+ }
+ .login>div:nth-child(5)>div:nth-child(2){
+      width: 80%;
+    text-align: center;
+    line-height: 50px;
+    height: 50px;
+    margin: 10px auto;
+ }
+  .login>div:nth-child(5)>div:nth-child(2)>span{
+ display: inline-block;
+ margin: 10px 20px;
+ }

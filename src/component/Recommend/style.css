@@ -1,0 +1,78 @@
+.Recommend{
+	    width: 20%;
+    position: absolute;
+    right: 19%;
+    top: 675px;
+}
+.Recommend_top{
+	    width: 100%;
+    height: 50px;
+}
+.Recommend_top>span{
+	
+    font-size:1em;
+	color: #d4c7ca;
+}
+.Recommend_down{
+	  width: 100%;
+    margin: 20px;
+    position: relative;
+	
+}
+.Recommend_downf{
+	       display: inline-block;
+    vertical-align: -95%;
+    width: 78px;
+    height: 78px;
+    border-radius: 50%;
+	
+}
+.Recommend_downs{
+	    display: inline-block;
+    margin: 0px 58px;
+
+}
+.Recommend_downs>span:first-child{
+	
+    font-size:1em;	font-weight: 700;
+
+}
+.Recommend_downs>span:last-child{
+	
+    font-size:1em;	color: #d4c7ca;
+
+}
+.Recommend_downt{
+	 display: inline-block;
+    color: #eee;
+    position: absolute;
+    right: 5px;
+    top: 19px;
+    
+    font-size:1em;
+
+}
+.Recommend_top_circle>span{
+	display: inline-block;
+	transition: all 0.2s;
+	transform: rotate(10deg);
+}
+.Recommend_downtchange{
+	 display: inline-block;
+    color: red;
+    position: absolute;
+    right: 5px;
+    top: 19px;
+    
+    font-size:1em;
+
+}
+.RecommendAll{
+        width: 100%;
+    height: 40px;
+    border: 1px solid #9f9f9f;
+    background-color: #eee;
+    text-align: center;
+    line-height: 40px;
+    border-radius: 14px;
+}

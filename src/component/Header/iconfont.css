@@ -1,0 +1,27 @@
+@font-face {font-family: "iconfont";
+  src: url('iconfont.eot?t=1559873459136'); /* IE9 */
+  src: url('iconfont.eot?t=1559873459136#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('data:application/x-font-woff2;charset=utf-8;base64,d09GMgABAAAAAAO4AAsAAAAAB/gAAANqAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHEIGVgCDBgqDUIMDATYCJAMMCwgABCAFhG0HRxvaBsgekqRjAQX0BUDkTEjA8fC13+/c3X2CaYMkGhkq3kwTkUTJEEkaKpFGomSm4yX8A71qgmNOYCWIlR8uUe7CnGbEQi5qQCfEQspozNWN+A8uxy0PcJ5lOf2qTWsMDQOMtwY09iIrkAS9Y3l1wytoIDcT6DZJBrJ1eH4PZYXoFYhrWWSgnJErDamhFeqKiUUSqQYybSpBzwHcBd+Pf1AKSpBUGcRWB1cHPGx/pn21xbJJ2eCecyB7Oi3caWQsAYW4rNRfyEX+JZhuIsk3x9aKkKZykUgEGBXV8g+PJIgaRHIvmINA4jPVXBJft8RV4w8nq6H2HsDrBA+iSAXDqY1WgBlT+D26j/xD+Pg3L2Ht8PTfFbV8313KJkmNYjGw5iCrmkF7ts3HIBzva9kP66wNoGPdMPEwhYCICMcMEGVP+0NdXK2LbjmPG8Plj46+UEzs0kg9KEZder/T3z6xIL72tF3GSvRdkHi4KWXdeEB9+rSRpp1qI4fH+3Ne3fDp/uFBrbggH96RFD1KW4uJFt4iO7x4lWlvCto/vdY287m9/c+QGwSeS1WoRUPUHIpv5FPPDDoZqmhKMsuycTE0biHw/5+7/3l/byY2WxCfmc6xYdFJ6wbxhMy+3z7ndg9UQcvHAFm/ee/pfvms7ftrrxhDDpr1tOfIE5yfyD3hycdAf1OZ6anFzX3n5lFj5EVgYSZUY6Zpt7cEADpHecgrv+43tl4Iwqul/peSwAE+2t/nggmdvHxaLgdAK9EZ/1FRJQ0Aj0/5WJFLlRJKV7oMH7lfQrdudLB52Mtw2RhNJrTGEkgaE5C1pkiFtgSVHstQa61Ct0VG03uMiJUThQpYUIAgDJqCpN87ZIMuSIX2DJVxf6A2GBh0OwvmBXvMREhVzyHGIx59UzDEzzQEpfKqYeotib7GOGl+wHgkx5VdqCinkA8dkUHOFEPiEsXZ+HgBA2NNHQ3RdqRpJkbHmgpx3iQ43rNW5eUDq9408YvSoWqTgzA8hId8xVAIjskgeIU91cLnbxGRT8NwGnIS3kfE4ZLrR4rkKHQgHUmMTjm3ck2cgGhWPI8ABXKYdMgQaYkm/SYUXd1OQTieieABXssqecgX2FUyWV6mv98i6Cayc6AIhuAwfGYnsLJBvCsxFnGmFc9SBvuMEcuWDAAAAA==') format('woff2'),
+  url('iconfont.woff?t=1559873459136') format('woff'),
+  url('iconfont.ttf?t=1559873459136') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
+  url('iconfont.svg?t=1559873459136#iconfont') format('svg'); /* iOS 4.1- */
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-combinedshapecopy2:before {
+  content: "\e652";
+}
+
+.icon-huanyipi:before {
+  content: "\e57b";
+  font-size: 25px;
+
+}
+

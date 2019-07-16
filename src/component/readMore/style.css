@@ -1,0 +1,15 @@
+.readMore{
+	    width: 62%;
+    height: 200px;
+}
+.readMore>div{
+	      width: 50%;
+    height: 50px;
+    margin: 50px auto;
+    font-size: 26px;
+    line-height: 50px;
+    text-align: center;
+    background-color: #eee;
+    border-radius: 51px;
+    color: #fff;
+}

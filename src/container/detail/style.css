@@ -1,0 +1,16 @@
+.detail_img{
+	    width: 40%;
+    height: 714px;
+    margin: 55px auto;
+}
+.detail_comment{
+	 width: 40%;
+    word-wrap: break-word;
+    font-size: 30px;
+    margin: 10px auto;
+    line-height: 56px;
+    text-align: center;
+    text-align-last: left;
+    text-indent: 64px;
+    letter-spacing: 2px;
+}

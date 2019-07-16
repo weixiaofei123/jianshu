@@ -1,0 +1,36 @@
+.show{
+	        width: 40%;
+    position: absolute;
+    left: 15%;
+    top: 68px;
+    min-width: 540px;
+}
+.show>ul>li{
+	    float: left;
+    margin-right: 5%;
+    margin-top: 10%;
+    height: 5%;
+    line-height: 127%;
+    list-style: none;
+
+}
+.show>ul>li>a>img{
+	      width: 43px;
+    height: 43px;
+}
+.show>ul>li>a>span{
+	    margin: 1px 3px;
+    font-size: 1em;
+    vertical-align: 79%;
+}
+.show>a>span{
+	       position: absolute;
+    right: 30px;
+    bottom: 15px;
+    font-size: 1em;
+    color: #9c9696;
+}
+.show>ul>li:last-child{
+	        margin-left: 47px;
+
+}
